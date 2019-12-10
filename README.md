@@ -40,5 +40,4 @@ Release Notes
 1.01  2009 - 01 - 27:
   Fixed problem with playing the signal.
   Fixed problem with importing EMG signal.
-  Fixed mtlplugin bug that caused crash in Matlab 6.5. 
- 
+  Fixed mtlplugin bug that caused crash in Matlab 6.5.
