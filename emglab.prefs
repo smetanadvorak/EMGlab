@@ -1,0 +1,17 @@
+nyquist_rate 2560 
+template_width 0.005 
+muap_width 0.0075 
+figure_position -265 809 1920 990 
+data_path 
+annotation_path C:\Users\Online Decomposition\Dropbox\EMG Lib\emglab1.03
+compare_path C:\Users\Online Decomposition\Dropbox\EMG Lib\emglab1.03
+color_scheme scope
+draw_mode smoother
+animation on
+font_size 12 
+buffer_length Inf 
+auxoffset 0 
+auxmax 2048 
+auxunits A/D units
+auxlowpassfilter 5 
+MTL_allow_ga 0 
