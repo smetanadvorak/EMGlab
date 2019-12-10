@@ -1,0 +1,1 @@
+function [t0, t1] = whattime (S);% Returns the start and end time of the requested panel.% Copyright (c) 2006-2009. Kevin C. McGill and others.% Part of EMGlab version 1.0.% This work is licensed under the Aladdin free public license.% For copying permissions see license.txt.% email: emglab@emglab.net	t0 = S.time+S.left*S.timebase;	t1 = S.time+S.right*S.timebase;	

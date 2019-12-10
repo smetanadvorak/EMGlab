@@ -1,0 +1,1 @@
+function [s, t] = unsig (sig);% Get time and signal vectors for plotting.% Copyright (c) 2006-2009. Kevin C. McGill and others.% Part of EMGlab version 1.0.% This work is licensed under the Aladdin free public license.% For copying permissions see license.txt.% email: emglab@emglab.net	s = sig.sig;	t = sig.t0 + [0:length(s)-1]' * sig.dt;

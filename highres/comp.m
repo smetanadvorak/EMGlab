@@ -1,0 +1,1 @@
+function Y = comp (X, d)% COMP Compose signal from templates and shifts% Copyright (c) 2006-2009. Kevin C. McGill and others.% Part of EMGlab version 1.0.% This work is licensed under the Aladdin free public license.% For copying permissions see license.txt.% email: emglab@emglab.net	Y = sum(hr_shift(X,d),2);
