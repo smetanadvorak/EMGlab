@@ -23,7 +23,7 @@ McGill KC, Lateva ZC, Marateb HR. EMGLAB: an interactive EMG decomposition progr
      this using the Current Directory window, the cd command, or the File Open
      Menu.
   3. At the Matlab command prompt, type:
-     >>install
+     install
 
 ## Running EMGLAB
   To run EMGlab, type "emglab" in the Matlab command window.
